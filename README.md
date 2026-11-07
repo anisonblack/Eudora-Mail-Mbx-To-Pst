@@ -198,3 +198,6 @@ This repository serves as the official landing page for Eudora Mail MBX to PST. 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Eudora Mail MBX to PST today!**
+
+---
+**Last updated:** 2026-11-07 16:01:32 UTC
