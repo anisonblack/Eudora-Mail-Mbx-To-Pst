@@ -200,4 +200,4 @@ This repository serves as the official landing page for Eudora Mail MBX to PST. 
 **Get the most recent version of Eudora Mail MBX to PST today!**
 
 ---
-**Last updated:** 2026-11-12 20:37:12 UTC
+**Last updated:** 2026-11-13 01:37:48 UTC
